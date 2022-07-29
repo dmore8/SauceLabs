@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="63.276">
+    <testcase classname="Reportar un bug" name="Reportar un bug" time="62.86">
+        <system-out>
+            <![CDATA[Given Encender el movil.....................................................passed
+And Abrir la aplicacion.....................................................passed
+And Se visualiza la aplicacion..............................................passed
+And Hacer clic en el menu...................................................passed
+And Hacer clic en la opcion Report a Bug....................................passed
+And Escribir el bug.........................................................passed
+And Hacer clic en enviar....................................................passed
+Then Comprobar que el mensaje se ha enviado.................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
